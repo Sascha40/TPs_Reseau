@@ -1,0 +1,1 @@
+# Configuration de l'admin 2

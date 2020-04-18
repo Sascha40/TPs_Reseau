@@ -1,4 +1,27 @@
 # TP4
 ## Sujet global : refresh
 
-[Mise en place de la topo sur GNS3](/docs/topo.png)
+[Mise en place de la topo sur GNS3](/docs/topo.md)
+
+### I/Configuration des admins et des guests
+
+* Admins  
+    * [admin 2](/docs/admin1.md)
+    * [admin 2](/docs/admin2.md)
+    * [admin 2](/docs/admin3.md)
+
+* Guests  
+    * [guest 1](/docs/guest1.md)
+    * [guest 2](/docs/guest2.md)
+    * [guest 2](/docs/guest3.md)
+
+### II/ Configuration des switchs et du routeur
+
+* Switch  
+    * [client-sw 1](/docs/clientsw1.md)
+    * [client-sw 2](/docs/clientsw2.md)
+    * [client-sw 3](/docs/clientsw3.md)
+    * [infra-sw 1](/docs/infrasw1.md)
+
+* Routeur  
+    * [R1](/docs/r1.md)
