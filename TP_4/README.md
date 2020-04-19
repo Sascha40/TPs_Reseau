@@ -6,9 +6,9 @@
 ### I/Configuration des admins et des guests
 
 * Admins  
-    * [admin 2](./docs/admin1.md)
+    * [admin 1](./docs/admin1.md)
     * [admin 2](./docs/admin2.md)
-    * [admin 2](./docs/admin3.md)
+    * [admin 3](./docs/admin3.md)
 
 * Guests  
     * [guest 1](./docs/guest1.md)
