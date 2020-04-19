@@ -1,9 +1,9 @@
 # TP4
 ## Sujet global : refresh
 
-[Mise en place de la topo sur GNS3](/docs/topo.md)
+[Mise en place de la topo sur GNS3](./docs/topo.md)
 
-### I/Configuration des admins et des guests
+### I/Configuration des admins, des guests et des vms
 
 * Admins  
     * [admin 1](./docs/admin1.md)
@@ -13,7 +13,12 @@
 * Guests  
     * [guest 1](./docs/guest1.md)
     * [guest 2](./docs/guest2.md)
-    * [guest 2](./docs/guest3.md)
+    * [guest 3](./docs/guest3.md)
+
+* VMs  
+    * [VM web](./docs/vmweb.md)
+    * [VM dns](./docs/vmdns.md)
+    * [VM dhcp](./docs/vmdhcp.md)
 
 ### II/ Configuration des switchs et du routeur
 
