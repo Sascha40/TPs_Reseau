@@ -30,3 +30,12 @@
 
 * Routeur  
     * [R1](./docs/r1.md)
+
+### III/ Ping de vérification
+
+[Admin to Admin](./docs/pingAdmin.md)
+[Guest to Guest](./docs/pingGuest.md)
+[Admin to Guest](./docs/pingAdminGuest.md)
+[web to dns](./docs/pingWebDns.md)
+[web and dns to WAN](./docs/pingToWan.md)
+
