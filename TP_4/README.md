@@ -46,7 +46,7 @@
 
 ### Tor
 #### Connexion au web avec Tor
-* [🌞 Lancez Wireshark et observez le trafic émis lors d'un trafic utilisant le Tor Browser, comparé à une connexion classique.](.docs/Tor.md)
+* 🌞 Lancez Wireshark et observez le trafic émis lors d'un trafic utilisant le Tor Browser, comparé à une connexion classique.
 
 ![Tor request](./assets/tor.png)
 
