@@ -39,3 +39,24 @@
 * [web to dns](./docs/pingWebDns.md)   
 * [web and dns to WAN](./docs/pingToWan.md)   
 
+## Sujet 5 : Anonymat en ligne
+
+### Proxy HTTP
+* [🌞 Lancez Wireshark et observez le trafic émis lors d'un trafic utilisant un proxy HTTP, puis un proxy HTTPS.](./docs/WireSharkProxy.md)
+
+### Tor
+#### Connexion au web avec Tor
+* [🌞 Lancez Wireshark et observez le trafic émis lors d'un trafic utilisant le Tor Browser, comparé à une connexion classique.](.docs/Tor.md)
+
+![Tor request](./assets/tor.png)
+
+On peut voir que mon host envoie bien une requête vers l'adresse du premier VPN du petit cadenas vert.
+
+#### Hidden service Tor
+
+Création du petit `.onion` : 
+
+![.onion](./assets/onion.png)
+
+
+
